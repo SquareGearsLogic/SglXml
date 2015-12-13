@@ -19,7 +19,7 @@ under the License.
 
 #include <fstream>
 
-#include "..\SglStringUtils\SglStringUtils.h"
+#include "../SglStringUtils/SglStringUtils.h"
 #include "SglXml.h"
 
 namespace SglXml

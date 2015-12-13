@@ -17,7 +17,7 @@ specific language governing permissions and limitations
 under the License.
 */
 
-#include "..\SglStringUtils\SglStringUtils.h"
+#include "../SglStringUtils/SglStringUtils.h"
 #include "SglXml.h"
 #include "SglXmlElement.h"
 
